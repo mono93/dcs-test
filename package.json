@@ -9,7 +9,7 @@
     "start": "webpack serve --config webpack.dev.js"
   },
   "repository": {
-    "url": "git+https://github.com/mono93/dsc-test.git"
+    "url": "git+https://github.com/mono93/dcs-test"
   },
   "author": "",
   "license": "ISC",
