@@ -1,0 +1,1 @@
+export const CUSTOM_API = "CUSTOM_API"
