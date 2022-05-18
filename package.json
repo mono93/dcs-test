@@ -30,5 +30,12 @@
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
+  },
+  "files": [
+    "build"
+  ],
+  "typings": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
