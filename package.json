@@ -1,12 +1,15 @@
 {
-  "name": "dcs",
+  "name": "@mono93/dcs-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.prod.js",
     "start": "webpack serve --config webpack.dev.js"
+  },
+  "repository": {
+    "url": "git+https://github.com/mono93/dsc-test.git"
   },
   "author": "",
   "license": "ISC",
